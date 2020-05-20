@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed May 20 12:39:45 2020
+
+@author: Shanding Gershinen
+"""
+
 import os
 import sys
 import sqlite3 as sql
